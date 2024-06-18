@@ -1,1 +1,1 @@
-# Face-Recognition-system
+This is project of face recognition system through which we can detect the object ,animal and different body part of human like eyes,face . Also we can detect the emotion of the people like smile , cry etc..
